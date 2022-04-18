@@ -1,0 +1,34 @@
+
+
+
+menu {
+    width: 200px;
+    height: 2000px;
+    position: fixed;
+    left: 0px;
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+    background-color: white;
+}
+
+
+ul#menu-list {
+    padding: 20px;
+    color:#ff5959;
+}
+
+menu li {
+    list-style: none;
+    padding-top: 30px;
+    text-align: center;
+}
+
+
+.menu-space{
+
+    width:200px;
+    height:100%;
+    margin:0px;
+    padding:0px;
+}
